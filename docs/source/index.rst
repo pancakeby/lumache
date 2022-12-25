@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Delicious Coconut Pancake Recipe, Perfect For Breakfast!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
